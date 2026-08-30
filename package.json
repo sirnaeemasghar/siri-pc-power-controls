@@ -1,0 +1,9 @@
+{
+  "name": "siri-pc-power-controls",
+  "version": "1.0.0",
+  "description": "Restart and shutdown Windows PC using Siri and iOS Shortcuts",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
